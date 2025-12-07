@@ -51,4 +51,20 @@ It functions as a complete operating system for debate, providing tools for Secr
 
 ---
 
-## 📂 Project Structure (example)
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.  
+For major proposals, open an issue to discuss your idea before submitting a pull request.
+
+---
+
+## 📌 Status
+
+Active development — MVP construction and architectural design in progress.
