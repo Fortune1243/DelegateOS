@@ -1,0 +1,20 @@
+{
+  "name": "delegateos-backend",
+  "version": "1.0.0",
+  "description": "Starter backend scaffold for DelegateOS using Express",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js || node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["delegateos", "express", "backend"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {}
+}
